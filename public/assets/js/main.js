@@ -1,16 +1,16 @@
 // window.addEventListener('DOMContentLoaded', (event) => {
-//
-//
-//     document.getElementById('handle_toggle_sidemenu').addEventListener('change' , function(){
-//         if (this.checked) {
-//             document.querySelector('.mini_sidebar').classList.add('expanded')
-//             document.getElementById('content_section').classList.add('with_sidebar')
-//         }else{
-//             document.querySelector('.mini_sidebar').classList.remove('expanded')
-//             document.getElementById('content_section').classList.remove('with_sidebar')
-//         }
-//     })
-//
+
+
+    // document.getElementById('handle_toggle_sidemenu').addEventListener('change' , function(){
+    //     if (this.checked) {
+    //         document.querySelector('.mini_sidebar').classList.add('expanded')
+    //         document.getElementById('content_section').classList.add('with_sidebar')
+    //     }else{
+    //         document.querySelector('.mini_sidebar').classList.remove('expanded')
+    //         document.getElementById('content_section').classList.remove('with_sidebar')
+    //     }
+    // })
+
 //     let sidebarItms = document.querySelectorAll('.sidebar_menu_item');
 //     for (const item of sidebarItms) {
 //         item.addEventListener('click' , ()=>{
@@ -26,14 +26,14 @@
 //             document.getElementById(`${sectionId}`).classList.remove('d-none')
 //         })
 //     }
-//
+
 //     // chart-------------->>
 //     const DATA_COUNT = 13;
-//
+
 //     const labels = ['فروردین' , 'اردیبهشت', 'خرداد' , 'تیر' , 'مرداد' , 'شهریور' , 'مهر' , 'آبان' , 'آذر' , 'دی' , 'بهمن' , 'اسفند'];
-//
+
 //     const datapoints = [0, 20, 20, 60, 60, 120, 180, 120, 125, 105, 110, 170];
-//
+
 //     const data = {
 //         labels: labels,
 //         datasets: [
@@ -47,7 +47,7 @@
 //             }
 //         ]
 //     };
-//
+
 //     const config = {
 //         type: 'line',
 //         data: data,
@@ -82,15 +82,15 @@
 //             }
 //         },
 //     };
-//
+
 //     const ctx = document.getElementById('myChart').getContext('2d');
 //     new Chart(ctx , config)
-//
-//
-//
-//
+
+
+
+    
 // });
-//
+
 // var tooltipEl = document.querySelectorAll('.has_tooltip')
 // for (const item of tooltipEl) {
 //     new bootstrap.Tooltip(item, {
