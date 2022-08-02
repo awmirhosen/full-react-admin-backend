@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# E-Commerce Admin Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an E-commerce admin dashboard that make with prepared laravel backend.
 
-## Available Scripts
+---
+
+## Getting start
 
 In the project directory, you can run:
 
@@ -13,6 +15,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+---
 
 This is a react course final project that I bought.
 
